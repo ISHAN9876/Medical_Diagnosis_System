@@ -1,5 +1,5 @@
 
-# AI-Powered Medical Diagnosis System
+# Medical Diagnosis With AI/ML
 
 ## Project Overview
 The **AI-Powered Medical Diagnosis System** is a machine learning-based application designed to assist in medical diagnoses. It utilizes various machine learning models like Support Vector Machine (SVM), Logistic Regression, and Random Forest to classify medical data and provide predictions based on input features. The application is designed to be user-friendly and is deployed using **Streamlit** for interactive web-based interfaces.
