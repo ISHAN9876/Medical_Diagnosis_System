@@ -115,7 +115,7 @@ This project uses 5 different datasets, each corresponding to a specific disease
 ```bash
 
 Directory structure:
-└── mukunda6-ai-powered-medical-diagnosis-system/
+└── Medical Diagnosis System/
     ├── README.md
     ├── LICENSE
     ├── app.py
@@ -127,7 +127,6 @@ Directory structure:
     │   ├── parkinson_data.csv
     │   ├── prepocessed_hypothyroid.csv
     │   ├── prepocessed_lungs_data.csv
-    │   ├── requirements.txt
     │   └── survey lung cancer.csv
     ├── Models/
     │   ├── Lung_Cancer.ipynb
