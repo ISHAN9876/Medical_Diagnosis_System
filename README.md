@@ -135,7 +135,6 @@ Directory structure:
     │   ├── heart_disease_model.sav
     │   ├── lungs_disease_model.sav
     │   └── parkinsons_model.sav
-    ├── images/
     └── notebook/
         ├── Heart_Disease_Prediction.ipynb
         ├── Lung_Cancer.ipynb
